@@ -1,2 +1,3 @@
 # adil_grandgaming_backend
-this is for data migration from dynamodb to mysql
+This is for data migration from dynamodb to mysql
+Author - MD ADIL
